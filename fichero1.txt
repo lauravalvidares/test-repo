@@ -1,6 +1,6 @@
 Este es mi primer fichero para git
 
-Metemos mas cambios en este fichero, para causar un conflicto
+Metemos mas cambios. nuevo cambio
 
 bla bla
 
